@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.17](https://github.com/correttojs/next-utils/compare/v0.0.16...v0.0.17) (2021-05-09)
+
+
+### Bug Fixes
+
+* build ([daa07b4](https://github.com/correttojs/next-utils/commit/daa07b4037cb2a14192925cf2609abde8d31694f))
+
 ### [0.0.16](https://github.com/correttojs/next-utils/compare/v0.0.15...v0.0.16) (2021-05-09)
 
 ### [0.0.15](https://github.com/correttojs/next-utils/compare/v0.0.12...v0.0.15) (2021-05-09)
