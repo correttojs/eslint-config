@@ -1,6 +1,6 @@
 {
   "name": "@correttojs/eslint-config",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "description": "eslint config",
   "license": "MIT",
   "scripts": {
