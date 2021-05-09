@@ -1,13 +1,14 @@
 {
-  "name": "next-corretto-utils",
-  "version": "0.0.18",
+  "name": "@corretto/next-utils",
+  "version": "0.0.19",
   "description": "Next utils",
   "license": "MIT",
   "scripts": {
     "test": "jest",
     "build": "webpack",
     "start": "rollup -c -w",
-    "release": "standard-version"
+    "release": "standard-version",
+    "pub": "git push --follow-tags origin main && cp package.json dist && npm publish dist"
   },
   "repository": {
     "type": "git",
