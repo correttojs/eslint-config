@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.27](https://github.com/correttojs/eslint-config/compare/v0.0.26...v0.0.27) (2021-05-09)
+
+
+### Features
+
+* add storybook ([afba485](https://github.com/correttojs/eslint-config/commit/afba48599cd40fbf82001440fc1e4a42f87560aa))
+
 ### [0.0.26](https://github.com/correttojs/eslint-config/compare/v0.0.25...v0.0.26) (2021-05-09)
 
 
