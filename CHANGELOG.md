@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.29](https://github.com/correttojs/eslint-config/compare/v0.0.28...v0.0.29) (2021-05-09)
+
+
+### Features
+
+* sb ([512f424](https://github.com/correttojs/eslint-config/commit/512f4248dfad3ac4076d71cf7c98993984886264))
+
 ### [0.0.28](https://github.com/correttojs/eslint-config/compare/v0.0.27...v0.0.28) (2021-05-09)
 
 
