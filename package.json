@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/correttojs/next-utils.git"
+    "url": "git+https://github.com/correttojs/eslint-config.git"
   },
   "main": "./index.js",
   "author": "Fabio Benedetti",
@@ -16,9 +16,9 @@
     "eslint"
   ],
   "bugs": {
-    "url": "https://github.com/correttojs/next-utils/issues"
+    "url": "https://github.com/correttojs/eslint-config/issues"
   },
-  "homepage": "https://github.com/correttojs/next-utils#readme",
+  "homepage": "https://github.com/correttojs/eslint-config#readme",
   "dependencies": {
     "eslint": "7.26.0",
     "eslint-config-next": "^0.2.4",
