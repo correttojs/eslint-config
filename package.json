@@ -52,11 +52,5 @@
     "react-query",
     "nextjs",
     "grapgql-codegen"
-  ],
-  "files": [
-    "dist"
-  ],
-  "dependencies": {
-    "@rollup/plugin-multi-entry": "^4.0.0"
-  }
+  ]
 }

@@ -31,7 +31,11 @@ module.exports = {
   },
   mode: "production",
   externals: {
-    ...peers,
-    ["next/router"]: "common2js next/router",
+    "react-query": "commonjs2 react-query",
+    "@graphql-typed-document-node/core":
+      "commonjs2 @graphql-typed-document-node/core",
+    "graphql-request": "commonjs2 graphql-request",
+    ["next/router"]: "commonjs2 next/router",
+    react: "commonjs2 react",
   },
 };
