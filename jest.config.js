@@ -8,7 +8,7 @@ module.exports = {
     "<rootDir>/coverage/",
     "<rootDir>/cypress",
     "<rootDir>/cache",
-    "<rootDir>/build",
+    "<rootDir>/dist",
   ],
   transform: {
     "\\.tsx?$": "babel-jest",
