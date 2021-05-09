@@ -1,1 +1,2 @@
-# react-query gql
+# Eslint
+custom eslint config
