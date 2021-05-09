@@ -33,6 +33,6 @@
     "@typescript-eslint/parser": "4.22.1"
   },
   "devDependencies": {
-    "standard-version": "^9.3.0"
+    "standard-version": "9.3.0"
   }
 }
