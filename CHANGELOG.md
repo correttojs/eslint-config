@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.26](https://github.com/correttojs/eslint-config/compare/v0.0.25...v0.0.26) (2021-05-09)
+
+
+### Features
+
+* add jest ([58a77d7](https://github.com/correttojs/eslint-config/commit/58a77d7d66614edffa27674a6e69fb10f5e6c4e9))
+
 ### [0.0.25](https://github.com/correttojs/eslint-config/compare/v0.0.24...v0.0.25) (2021-05-09)
 
 
