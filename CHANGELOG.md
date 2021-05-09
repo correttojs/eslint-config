@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/correttojs/next-utils/compare/v0.0.9...v0.0.10) (2021-05-09)
+
+
+### Features
+
+* wp ([6c6011f](https://github.com/correttojs/next-utils/commit/6c6011f39e7d5ca71033e553af37bc4c7b766e76))
+
 ### [0.0.9](https://github.com/correttojs/next-utils/compare/v0.0.8...v0.0.9) (2021-05-09)
 
 ### [0.0.8](https://github.com/correttojs/graphql-codegen-apollo-next-ssr/compare/v0.0.7...v0.0.8) (2021-05-03)
