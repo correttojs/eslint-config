@@ -1,6 +1,6 @@
 {
-  "name": "next-utils",
-  "version": "0.0.10",
+  "name": "next-corretto-utils",
+  "version": "0.0.11",
   "description": "Next utils",
   "license": "MIT",
   "scripts": {
