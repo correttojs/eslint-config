@@ -21,6 +21,9 @@
   "homepage": "https://github.com/correttojs/eslint-config#readme",
   "dependencies": {
     "@next/eslint-plugin-next": "^10.2.0",
+    "@testing-library/react": "11.2.6",
+    "@testing-library/react-hooks": "5.1.2",
+    "@testing-library/user-event": "13.1.8",
     "@typescript-eslint/eslint-plugin": "4.22.1",
     "@typescript-eslint/parser": "4.22.1",
     "eslint": "7.26.0",
@@ -34,6 +37,9 @@
     "husky": "4.3.8",
     "import-sort-parser-typescript": "6.0.0",
     "import-sort-style-module": "6.0.0",
+    "jest": "26.6.3",
+    "jest-fetch-mock": "3.0.3",
+    "jest-transform-graphql": "2.1.0",
     "lint-staged": "11.0.0",
     "prettier": "2.2.1",
     "prettier-plugin-import-sort": "0.0.6"
