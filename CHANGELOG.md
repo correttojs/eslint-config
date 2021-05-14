@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.30](https://github.com/correttojs/eslint-config/compare/v0.0.29...v0.0.30) (2021-05-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @graphql-codegen/typescript-graphql-request to v3.2.0 ([f3d519f](https://github.com/correttojs/eslint-config/commit/f3d519f9c65b6a49f50b0350697ffbeb7e4f3a33))
+* **deps:** update dependency @testing-library/react to v11.2.7 ([12eb49e](https://github.com/correttojs/eslint-config/commit/12eb49e8fa4d1275218a3fa501caf3e13ec65a4d))
+* **deps:** update dependency @testing-library/user-event to v13.1.9 ([f7a2677](https://github.com/correttojs/eslint-config/commit/f7a26774ba91bbc9c916ed3be6af3b1ffa8ada70))
+* **deps:** update dependency postcss to v8.2.15 ([51f1c2d](https://github.com/correttojs/eslint-config/commit/51f1c2dad7a5a629d51ed94b96b94d9da1c6254d))
+* **deps:** update dependency prettier to v2.3.0 ([26232f4](https://github.com/correttojs/eslint-config/commit/26232f4bfbfc9a9fa932a269e56075168ad149b7))
+* **deps:** update typescript-eslint monorepo to v4.23.0 ([6e49ae2](https://github.com/correttojs/eslint-config/commit/6e49ae25057d180f68833aa1f66a2ae07500755a))
+
 ### [0.0.29](https://github.com/correttojs/eslint-config/compare/v0.0.28...v0.0.29) (2021-05-09)
 
 
