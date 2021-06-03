@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.32](https://github.com/correttojs/eslint-config/compare/v0.0.31...v0.0.32) (2021-06-03)
+
+
+### Features
+
+* docgen ([452199a](https://github.com/correttojs/eslint-config/commit/452199a33c3656c2d75b6b17892fc34b6b7fb595))
+
+
+### Bug Fixes
+
+* **deps:** update graphqlcodegenerator monorepo ([aeb838a](https://github.com/correttojs/eslint-config/commit/aeb838ab051841678cfce293b9cadc0e9b7291dd))
+
 ### [0.0.31](https://github.com/correttojs/eslint-config/compare/v0.0.30...v0.0.31) (2021-05-14)
 
 
