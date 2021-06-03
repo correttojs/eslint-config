@@ -18,6 +18,11 @@ module.exports = {
 
     return config;
   },
+  typescript: {
+    check: false,
+    checkOptions: {},
+    reactDocgen: 'false',
+},
   babel: (options) => {
     options.presets = options.presets.map((preset) => {
       if (Array.isArray(preset) && preset[0].includes("@babel/preset-react")) {
