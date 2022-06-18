@@ -59,7 +59,7 @@
     "jest-fetch-mock": "3.0.3",
     "jest-transform-graphql": "2.1.0",
     "lint-staged": "11.0.0",
-    "postcss": "8.2.15",
+    "postcss": "8.4.14",
     "prettier": "2.2.1",
     "prettier-plugin-import-sort": "0.0.6",
     "tsconfig-paths-webpack-plugin": "3.5.1"
